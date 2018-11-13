@@ -1,0 +1,23 @@
+== <my activity> ==
+
+;Objective
+: text ...
+
+<div class="time-estimate">
+Time estimated: XXX h; taken XXX h; date started: 2017-MM-DD; date completed: 2017-MM-DD
+</div>
+
+===Progress===
+
+;Activity 1
+: Notes ...
+
+;Activity 2
+: Notes ...
+
+=== Conclusion and outlook===
+
+Describe ...
+
+{{Vspace}}
+

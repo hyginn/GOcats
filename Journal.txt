@@ -1,0 +1,51 @@
+<div class="b1">
+GOcats Journal
+</div>
+
+{{Vspace}}
+
+__TOC__
+
+{{Vspace}}
+
+== Exploring GO and GOA ==
+
+;GO and GOA
+: Find sources for GO and GOA files, download, and define structure
+
+<div class="time-estimate">
+2017-11-13
+</div>
+
+===Progress===
+
+;Download GO
+* Navigate to http://geneontology.org/page/download-ontology . From the documentation, it appears we want '''<code>go-basic.obo</code>'''. Downloaded latest version (32.2Mb) and stored in parent folder.
+
+;Activity 2
+: Notes ...
+
+=== Conclusion and outlook===
+
+...
+
+{{Vspace}}
+
+
+
+
+
+
+
+
+
+==Notes and References==
+<references />
+
+{{Vspace}}
+
+<!-- Category and Footer -->
+
+----
+
+{{CC-BY}}
